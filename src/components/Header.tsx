@@ -7,7 +7,7 @@ const Header = () => {
         <nav className="flex items-center justify-between">
           <div className="flex items-center space-x-2">
             <div className="text-2xl">🍎</div>
-            <span className="font-apple text-xl text-gray-900 font-extrabold">
+            <span className="font-apple font-semibold text-xl text-gray-900">
               Gift Cards
             </span>
           </div>

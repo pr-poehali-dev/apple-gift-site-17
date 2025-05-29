@@ -10,7 +10,7 @@ const Index = () => {
       {/* Hero Section */}
       <section id="home" className="pt-24 pb-20 px-6">
         <div className="max-w-6xl mx-auto text-center">
-          <div className="animate-fade-in py-0 my-[141px]">
+          <div className="animate-fade-in">
             <h1 className="text-6xl md:text-7xl font-bold text-gray-900 mb-6 font-apple leading-tight">
               Apple Gift Card
             </h1>
@@ -76,7 +76,7 @@ const Index = () => {
                 Активируйте
               </h3>
               <p className="text-gray-600 font-apple">
-                Введите код в App Store или iTunes St
+                Введите код в App Store или iTunes Store
               </p>
             </div>
 

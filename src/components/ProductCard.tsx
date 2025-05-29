@@ -34,7 +34,7 @@ const ProductCard = ({ amount, isPopular = false }: ProductCardProps) => {
 
         <div className="mb-6">
           <span className="text-4xl font-bold text-gray-900 font-apple">
-            lkjlkj
+            {amount.toLocaleString()}₽
           </span>
         </div>
 
