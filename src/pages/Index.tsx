@@ -76,7 +76,7 @@ const Index = () => {
                 Активируйте
               </h3>
               <p className="text-gray-600 font-apple">
-                Введите код в App Store или iTunes Store
+                Введите код в App Store или iTunes St
               </p>
             </div>
 
